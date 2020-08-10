@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [介绍](jie-shao.md)
+* [序言](README.md)
+* [001. validator](validator.md)
 
